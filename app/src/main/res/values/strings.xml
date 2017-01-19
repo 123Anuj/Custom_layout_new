@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Custom_layout_context_menu</string>
+    <string-array name="Names" >
+        <item>Anuj</item>
+        <item>Ankur</item>
+        <item>Sumit</item>
+        <item>Sagar</item>
+    </string-array>
+    <string-array name="Contacts">
+        <item>8192014959</item>
+        <item>9897456785</item>
+        <item>9876453627</item>
+        <item>9876345622</item>
+    </string-array>
+</resources>
